@@ -1,5 +1,5 @@
 package ch03;
-// 예제 2-22
+// 예제 3-22
 public class OperatorEx22 {
 	public static void main(String[] args) {
 		float f = 0.1f;
